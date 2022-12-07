@@ -30,7 +30,7 @@ Once in the virtualenv, run in your terminal:
 pip install -r environment/requirements.txt
 ```
 
-Make sure to install PyTorch==1.3.0 that is suitable for your system (CPU/GPU and CUDA version). See PyTorch get started [documentation](https://pytorch.org/get-started/locally/) for more details.
+Make sure to install `PyTorch==1.3.0` that is suitable for your system (CPU/GPU and CUDA version). See PyTorch get started [documentation](https://pytorch.org/get-started/locally/) for more details.
 
 ## Instructions for M1/M2 MacBook users
 
